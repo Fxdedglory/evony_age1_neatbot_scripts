@@ -1,0 +1,15 @@
+﻿# --- CONFIG ---
+$Repo = "Fxdedglory/evony_age1_neatbot_scripts"
+$RepoDir = "$HOME\OneDrive\Documents\Evony\Scripts\evony_age1_neatbot_scripts"
+$FN = "NeatBot_EvonyAge1_Audit_MultiCity_Troop_Resource_Population_Upkeep_IncomingResources_WithCityCoordinates_ConsoleTotals_v2.txt"
+$Msg = "feat: audit script v2 — formatted per-city sections; NeatBot 3521+"
+
+# --- ENSURE REPO & CD ---
+if (!(Test-Path $RepoDir)) { gh repo clone $Repo $RepoDir }
+Set-Location $RepoDir
+if (-not (Test-Path ".git")) { throw "Not a git repo. Try: gh repo clone $Repo $RepoDir" }
+
+# --- WRITE FILE FROM CLIPBOARD, COMMIT, PUSH ---
+Set-Content -Path $FN -Value (Get-Clipboard) -Encoding UTF8
+git add $FN; git commit -m $Msg; git push origin main
+
