@@ -1,0 +1,18 @@
+﻿// ============================================================================
+// FILE: NeatBot_EvonyAge1_what_v1.txt
+// PURPOSE: <fill me>
+// REQUIREMENTS: NeatBot 3521+
+// INPUTS: none
+// OUTPUTS: Console text sections
+// SAMPLE OUTPUT (TRIMMED):
+//   <fill me>
+// AUTHOR: Fxdedglory
+// LICENSE: The Unlicense (Public Domain)
+// ============================================================================
+
+    
+// ===========================
+// TEST OUTPUT (most recent)
+// ===========================
+
+// ===========================
