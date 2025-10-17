@@ -1,0 +1,46 @@
+// ============================================================================
+// FILE: NeatBot_EvonyAge1_UnnamedScript_v1.txt
+// PURPOSE: Generated per Build notes. See sections below for constraints & goals.
+// REQUIREMENTS: NeatBot 3521+
+// INPUTS: none
+// OUTPUTS: Console ASCII
+// GENERATED: 2025-10-17 14:54:46 PDT
+// AUTHOR: Fxdedglory
+// LICENSE: The Unlicense (Public Domain)
+// ----------------------------------------------------------------------------
+// BUILD → Problem Statement:
+// ----------------------------------------------------------------------------
+// BUILD → Desired Functions:
+// - listmedals
+// ----------------------------------------------------------------------------
+// BUILD → Key Objects / APIs:
+// ----------------------------------------------------------------------------
+// BUILD → References:
+// ----------------------------------------------------------------------------
+// BUILD → Desired Outputs (example):
+// ============================================================================
+
+// --------------------- PASTE SCRIPT BELOW THIS LINE ---------------------
+
+
+// ============================================================================
+// METADATA FOOTER — REFERENCES • QUOTES • GLOSSARY • VERSIONS
+// ============================================================================
+// Reference Summary:
+//   Relies on NeatBot APIs and Evony mechanics referenced in the header.
+//
+// Links (replace with your sources):
+//   - NeatBot API / Commands: <ADD_LINK_HERE>
+//   - Evony Age 1 Wiki: <ADD_LINK_HERE>
+//
+// Glossary:
+//   - troop bean        : counts by type
+//   - resource bean     : gold/food/wood/stone/iron totals
+//   - upkeep            : food consumption per tick
+//
+// Version History:
+//   - v1.0.0 — Initial release — auto-generated via Pipeline_v4.
+//
+// License:
+//   The Unlicense (Public Domain).
+// ============================================================================
