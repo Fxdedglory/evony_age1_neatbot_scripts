@@ -1,0 +1,34 @@
+// ============================================================================
+// FILE: NeatBot_EvonyAge1_Unnamed_v1.txt
+// PURPOSE: Generated per Build notes; see sections below.
+// REQUIREMENTS: NeatBot 3521+
+// INPUTS: none
+// OUTPUTS: Console ASCII
+// GENERATED: 20251017-151525
+// AUTHOR: Fxdedglory
+// LICENSE: The Unlicense (Public Domain)
+// ----------------------------------------------------------------------------
+// BUILD → Purpose:
+// (none)
+// ----------------------------------------------------------------------------
+// BUILD → Desired Functions:
+// (none)
+// ----------------------------------------------------------------------------
+// BUILD → Key Objects / APIs:
+// (none)
+// ----------------------------------------------------------------------------
+// BUILD → References:
+// (none)
+// ----------------------------------------------------------------------------
+// BUILD → Desired Output (example):
+// (none)
+// ============================================================================
+
+// --------------------- PASTE SCRIPT BELOW THIS LINE ---------------------
+listmedals
+// -----------------------------------------------------------------------
+// ===========================
+// TEST OUTPUT (most recent)
+// ===========================
+Medals: 2 Courage Medal, 11 Lion Medal, 1 Rose Medal, 3 Cross Medal
+// ===========================
